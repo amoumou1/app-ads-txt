@@ -1,4 +1,5 @@
 google.com, pub-4807332001835138, DIRECT, f08c47fec0942fa0
+facebook.com, 1809717905726261, DIRECT, c3e20eee3f780d68
 adelement.com, 30167, RESELLER
 admanmedia.com, 613, RESELLER
 admixplay.com, 2012, RESELLER
